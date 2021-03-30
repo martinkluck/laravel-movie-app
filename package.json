@@ -20,7 +20,7 @@
         "tailwindcss-spinner": "^1.0.0"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.13.0",
+        "@fortawesome/fontawesome-free": "^5.15.2",
         "tailwindcss": "^1.9.6"
     }
 }
